@@ -1,6 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/salsicha/capoeira_strudel/main/",
-  "hits": [
+  "berim": [
     "hits/Berimbau_Perc_01.wav",
     "hits/Berimbau_Perc_02.wav",
     "hits/Berimbau_Perc_03.wav",
@@ -28,7 +28,8 @@
     "hits/Berimbau_Perc_25.wav",
     "hits/Berimbau_Perc_26.wav",
     "hits/Berimbau_Perc_27.wav",
-    "hits/Berimbau_Perc_28.wav",
+    "hits/Berimbau_Perc_28.wav"],
+  "berim_caxi": [
     "hits/Berim_Caxi_Perc_01.wav",
     "hits/Berim_Caxi_Perc_02.wav",
     "hits/Berim_Caxi_Perc_03.wav",
@@ -40,7 +41,9 @@
     "hits/Berim_Caxi_Perc_09.wav",
     "hits/Berim_Caxi_Perc_10.wav",
     "hits/Berim_Caxi_Perc_11.wav",
-    "hits/Berim_Caxi_Perc_12.wav",
+    "hits/Berim_Caxi_Perc_12.wav"
+  ],
+  "caxi": [
     "hits/Caxixi_Perc_01.wav",
     "hits/Caxixi_Perc_02.wav",
     "hits/Caxixi_Perc_03.wav",
