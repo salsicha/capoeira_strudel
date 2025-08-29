@@ -1,7 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/salsicha/capoeira_strudel/main/",
-  "hits": [
-    "hits/Berimbau_Perc_01.wav",
+  "hits": ["hits/Berimbau_Perc_01.wav",
     "hits/Berimbau_Perc_02.wav",
     "hits/Berimbau_Perc_03.wav",
     "hits/Berimbau_Perc_04.wav",
@@ -29,8 +28,7 @@
     "hits/Berimbau_Perc_26.wav",
     "hits/Berimbau_Perc_27.wav",
     "hits/Berimbau_Perc_28.wav"],
-  "berim_caxi": [
-    "hits/Berim_Caxi_Perc_01.wav",
+  "berim_caxi": ["hits/Berim_Caxi_Perc_01.wav",
     "hits/Berim_Caxi_Perc_02.wav",
     "hits/Berim_Caxi_Perc_03.wav",
     "hits/Berim_Caxi_Perc_04.wav",
@@ -42,8 +40,7 @@
     "hits/Berim_Caxi_Perc_10.wav",
     "hits/Berim_Caxi_Perc_11.wav",
     "hits/Berim_Caxi_Perc_12.wav"],
-  "caxi": [
-    "hits/Caxixi_Perc_01.wav",
+  "caxi": ["hits/Caxixi_Perc_01.wav",
     "hits/Caxixi_Perc_02.wav",
     "hits/Caxixi_Perc_03.wav",
     "hits/Caxixi_Perc_04.wav",
@@ -53,8 +50,7 @@
     "hits/Caxixi_Perc_08.wav",
     "hits/Caxixi_Perc_09.wav",
     "hits/Caxixi_Perc_10.wav"],
-  "loops": [
-    "loops/145_Berimbau_Perc_1.wav",
+  "loops": ["loops/145_Berimbau_Perc_1.wav",
     "loops/145_Berimbau_Perc_2.wav",
     "loops/145_Berimbau_Perc_3.wav",
     "loops/145_Berim_Caxi_Perc_1.wav",
