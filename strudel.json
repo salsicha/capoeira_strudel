@@ -1,8 +1,1 @@
-{
-  "_base": "https://raw.githubusercontent.com/salsicha/capoeira_strudel/main/",
-  "hits": ["hits/Berimbau_Perc_01.wav",
-    "hits/Berimbau_Perc_02.wav",
-    "hits/Berimbau_Perc_03.wav"
-  ]
-}
-
+{"_base":"https://raw.githubusercontent.com/salsicha/capoeira_strudel/main/","berim":["hits/Berimbau_Perc_01.wav", "hits/Berimbau_Perc_01.wav"]}
