@@ -8,7 +8,7 @@ Capoeira Angola example:
 
 ``` strudel
 samples('https://raw.githubusercontent.com/salsicha/capoeira_strudel/main/strudel.json')
-s("[berim:26 berim]:26 berim_caxi:7 caxi:2")
+s('berim:26*2 berim_caxi:7 caxi:2')
 ```
 
 Rhythm source:
