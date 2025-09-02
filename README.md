@@ -8,17 +8,14 @@ Capoeira Angola example:
 
 ``` strudel
 samples('https://raw.githubusercontent.com/salsicha/capoeira_strudel/main/strudel.json')
-s('berim:26*2 berim_caxi:7 caxi:2')
+s("hits:26*2 hits:35 hits:42")
 ```
-
-
-
-samples('https://raw.githubusercontent.com/salsicha/capoeira_strudel/main/strudel.json')
-s("hits:0")
-
-
 
 Rhythm source:
 https://paulista.kyiv.ua/en/rhytm-berinbau/
 
+
+https://splice.com/sounds/packs/rare-percussion/percussiongodz-vol-1/samples
+
+https://freesound.org/people/Paulo_Gon%C3%A7alves/packs/10723/
 
