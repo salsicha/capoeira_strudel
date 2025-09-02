@@ -1,11 +1,9 @@
-# capoeira_strudel
-Strudel repo for capoeira music
+# Capoeira music in Strudel
 
 ![Rhythms](https://github.com/salsicha/capoeira_strudel/blob/main/r.png?raw=true)  
 ![Rhythms](https://github.com/salsicha/capoeira_strudel/blob/main/r_key.png?raw=true)  
 
 Capoeira Angola example:
-
 ``` strudel
 samples('https://raw.githubusercontent.com/salsicha/capoeira_strudel/main/strudel.json')
 s("hits:26*2 hits:35 hits:42")
