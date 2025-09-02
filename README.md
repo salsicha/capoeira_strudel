@@ -6,7 +6,7 @@
 Capoeira Angola example:
 ``` strudel
 samples('https://raw.githubusercontent.com/salsicha/capoeira_strudel/main/strudel.json')
-s("hits:26*2 hits:35 hits:42")
+s("hits:26*2 hits:7 hits:10 hits:42")
 ```
 
 Rhythm source:  
